@@ -5,7 +5,7 @@
 <h2 align="center"><strong>Para ter acesso ao repositorio, é necessário os seguintes passos: </strong></h2>
 <hr>
 <br>
-<h3><strong>Primeiro passo:</strong> o projeto está disposto em quatro pastas = "main", "tad", "ordenacoes" e "tranformacoes". Dentro da pasta /arquivos do seu projeto adicione os arquivos abaixo: </h3>
+<h3><strong>Primeiro passo:</strong> o projeto está disposto em quatro pacotes = "main", "tad", "ordenacoes" e "tranformacoes", além da pasta "arquivos". Dentro da pasta /arquivos do seu projeto adicione os arquivos abaixo: </h3>
 <br>
 <ul>
 <li><strong>Primeiro arquivo: </strong>https://drive.google.com/file/d/1ZgzACETTKZ-hGUEd0Kyqt7bw5HLMsvq9/view</li>
